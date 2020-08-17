@@ -38,6 +38,6 @@
 	</dependencies>
 
 	<build>
-		<finalName>SpringbootH2Database</finalName>
+		<finalName>AlbumManagement</finalName>
 	</build>
 </project>
